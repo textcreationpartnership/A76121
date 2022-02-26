@@ -1,0 +1,358 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The merchants remonstrance. Wherein is set forth the inevitable miseries which may suddenly befall this kingdome by want of trade, and decay of manufactures. By I.B. of London merchant. This is licensed and entred into the Hall-booke according to order.</title>
+            <author>Battie, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76121</idno>
+            <idno type="STC">Wing B1157</idno>
+            <idno type="STC">Thomason E32_16</idno>
+            <idno type="STC">ESTC R209960</idno>
+            <idno type="EEBO-CITATION">99868805</idno>
+            <idno type="PROQUEST">99868805</idno>
+            <idno type="VID">154570</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76121)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154570)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E32[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The merchants remonstrance. Wherein is set forth the inevitable miseries which may suddenly befall this kingdome by want of trade, and decay of manufactures. By I.B. of London merchant. This is licensed and entred into the Hall-booke according to order.</title>
+                  <author>Battie, John.</author>
+               </titleStmt>
+               <extent>[4], 10 [i.e. 11], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>February 12. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>I.B. = John Battie.</note>
+                  <note>Page 11 misnumbered 10.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>War --  Economic aspects --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154570:1" rendition="simple:additions"/>
+            <p>THE MERCHANTS REMONSTRANCE.</p>
+            <p>Wherein is ſet forth the inevitable miſeries which may
+ſuddenly befall this Kingdome by want of <hi>Trade,</hi> and decay of
+<hi>Manufactures.</hi>
+            </p>
+            <p>By <hi>I.B.</hi> of <hi>London</hi> Merchant.</p>
+            <p>This is licenſed and entred into the Hall-Booke according to
+Order.</p>
+            <p>LONDON, Printed by <hi>R.H. February</hi> 12. 1644.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:154570:2"/>
+            <pb facs="tcp:154570:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y Profeſsion being that of a Merchant, thou muſt expect the
+Lan<g ref="char:EOLhyphen"/>guage and ſtile in this <hi>REMONSTRANCE,</hi> anſwerable thereunto:
+Let thy thoughts be upon the matter it ſelf, weigh it well, for it is of
+ſuch concernment to the wel<g ref="char:EOLhyphen"/>fare of the whole Kingdome, that it muſt
+ſtand and fall with it.</p>
+            <closer>
+               <salute>Farewell.</salute>
+               <signed>I. B.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154570:3"/>
+            <pb n="1" facs="tcp:154570:3"/>
+            <head>The Merchants Remonſtrance.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Rade</hi> is the life of a State, <hi>Manufactures</hi> are
+the ſi<g ref="char:EOLhyphen"/>newes of <hi>Trade,</hi> and <hi>Mo<g ref="char:EOLhyphen"/>ney</hi> is the ſoule of both.
+There is ſuch a neceſſary connection and dependen<g ref="char:EOLhyphen"/>cy between them, that
+the one cannot ſub<g ref="char:EOLhyphen"/>ſiſt without the other; The laſt doth ani<g ref="char:EOLhyphen"/>mate the
+ſecond, and the ſecond ſupports the firſt, and the firſt gives motion
+and quick<g ref="char:EOLhyphen"/>ning to the other two. Now of all ſorts of <hi>Trade,
+Trafficke</hi> hath been alwayes eſteemed <pb n="2" facs="tcp:154570:4"/>the
+moſt noble, becauſe the moſt hazar<g ref="char:EOLhyphen"/>dous; And <hi>Trafficke</hi> is moſt
+proper and uſe<g ref="char:EOLhyphen"/>full to <hi>Iſlands,</hi> whoſe ſecurity and power
+depends principally upon ſhipping, and <hi>na<g ref="char:EOLhyphen"/>vall ſtrength.</hi> Amongſt
+<hi>Iſlands,</hi> this of great <hi>Britaine</hi> hath been from all times
+held the moſt rich, and renowned, as well for the fertility of the ſoyle,
+and temperature of the ayre; As for the ſubſtantiall and neceſſary
+<hi>native</hi> commodities it affords in ſuch plen<g ref="char:EOLhyphen"/>ty to advance
+<hi>Trade,</hi> and oblige all other Nations. Now there is no greater enemy to
+<hi>Trade</hi> than <hi>War,</hi> be it in what Countrey it will; our
+Neighbours the <hi>Hollanders</hi> ex<g ref="char:EOLhyphen"/>cepted, who by ſo long a habit of
+<hi>War</hi> ſeems to make a <hi>Trade</hi> of it; They are the onely men who
+by the advantage of their <hi>ſcitu<g ref="char:EOLhyphen"/>ation</hi> can fiſh beſt in troubled
+waters; wit<g ref="char:EOLhyphen"/>neſſe the tumults of <hi>Germany,</hi> and theſe of
+<hi>England</hi> and <hi>Ireland.</hi> Yet <hi>forraigne</hi> war is not ſo
+great a diſturber of <hi>Trade,</hi> nor halfe ſo deſtructive, as
+<hi>inteſtine;</hi> For as the fire that's kindled within doores, and in the
+bed-ſtraw, as it were, rageth more violent<g ref="char:EOLhyphen"/>ly: ſo <hi>civill</hi> War
+ruines <hi>Trade</hi> faſter than any other, and makes poverty and
+deſolation <pb n="3" facs="tcp:154570:4"/>poſt in one after the
+other, whereſoever it is kindled. Now the drift of this ſmall
+<hi>Remonſtrance</hi> is, to ſhew the great miſery that may ſuddenly
+befall this Kingdome through want of <hi>Trade,</hi> and the evill effects it
+may produce.</p>
+            <p>Firſt, for that the chiefeſt way of enrich<g ref="char:EOLhyphen"/>ing a Kingdome, is
+the expence of it's na<g ref="char:EOLhyphen"/>tive or home commodities (that can well be ſpared) in
+forraigne parts; if it faile, the <hi>Manufacture</hi> muſt ceaſe, by which
+meanes many thouſands of poore Families, which have no other maintenance by
+their daily labour, or by what each dayes worke will afford them, will be
+ſuddenly expoſed to beggery.</p>
+            <p>Secondly, divers <hi>Workmen</hi> or <hi>Artificers,</hi> through
+want of imployment here, will doubtleſſe goe into other Countries, and
+exerciſe their <hi>Trade,</hi> whereby it may come to the knowledge and
+practiſe of <hi>ſtrangers,</hi> as I feare is already: being at the penning
+hereof informed, that in <hi>Zeland</hi> there are <hi>Loomes</hi> ſet up for
+<hi>Perpetuano's,</hi> and other Stuffs: And that in other places they are not
+idle, ſetting up daily <hi>Loomes</hi> for <hi>Cloth,</hi> &amp;c.</p>
+            <pb n="4" facs="tcp:154570:5"/>
+            <p>It wil perhaps be objected, that if our <hi>Wooll</hi> (which is
+the chiefe materiall) be wanting, they will faile of the exerciſe of their
+<hi>Trade</hi> in forraigne parts: I anſwer, that ſuch Wools may be had
+elſewhere, as will ſerve their turne, by the due mixture of ſuch ſorts
+as will fit and agree beſt together.</p>
+            <p>Witneſſe, The ſtore of courſe <hi>Cloth</hi> made in High
+<hi>Ger<g ref="char:EOLhyphen"/>many,</hi> where about 20000 Engliſh <hi>Clothes, narrow Liſts</hi>
+(commonly called by the <hi>Mer<g ref="char:EOLhyphen"/>chant Adventurers, Franckfort ſorts</hi>)
+each <hi>Cloth</hi> containing 28 yards in length, were yearely ſpent, and
+ſince not above 2000 ven<g ref="char:EOLhyphen"/>ted of the ſaid ſorts; the cauſe whereof, was
+that unhappy <hi>Project</hi> of dying and dreſsing of <hi>Cloth</hi> by Sir
+<hi>William Cockaine</hi> and others: which ſo much inſenced the
+<hi>Germanes</hi> (for if it had taken effect, many Families of Clothworkers
+and Dyers would have bin deſtroyed) that they uſed their utmoſt
+en<g ref="char:EOLhyphen"/>deavours to practiſe the making of the ſaid ſorts of Clothes; which
+had ſuch ſucceſſe, that in a very ſhort time the expence of thoſe
+ſorts of <hi>Engliſh Clothes,</hi> was brought downe from ſo great, to
+ſo ſmall a number. That <pb n="5" facs="tcp:154570:5"/>
+               <hi>Project</hi>
+found the like or worſe entertain<g ref="char:EOLhyphen"/>ment in <hi>Holland,</hi> and other parts
+of the Low Countries, where, before that time, many thouſands of finer
+ſorts of <hi>Engliſh Clothes</hi> were more vented then now are; ſo that
+it was obſerved, that whereas before the ſaid <hi>Project</hi> was put in
+practiſe, there were about eighty thouſand Engliſh <hi>Clothes</hi> of
+all ſorts <hi>per annum,</hi> exported by the old Company of <hi>Merchant
+Adventurers,</hi> that in the new Companies time and ſince, not much above
+thirty thouſand, whence this Inference may be eaſily drawne, <hi>That
+Inno<g ref="char:EOLhyphen"/>vations in a State or Common-wealth are al<g ref="char:EOLhyphen"/>wayes dangerous, and
+ſometimes destructive.</hi>
+            </p>
+            <p>Before the late war between us &amp; <hi>Spaine,</hi> there were
+ſent hence thither great ſtore of <hi>knit Stockings;</hi> but the
+Importation of all En<g ref="char:EOLhyphen"/>gliſh commodities into that Kings domi<g ref="char:EOLhyphen"/>nions being
+prohibited, his Subjects put in practiſe the making of <hi>Stockings,</hi>
+and in thoſe quantities, and at ſuch eaſie rates, that ſince we have
+had peace with that King, it hath been free for Engliſh Merchants to import
+thoſe of the <hi>Manufacture</hi> of our Countrey; yet very few are ſent,
+for that <pb n="6" facs="tcp:154570:6"/>they cannot be afforded at
+ſuch low rates as thoſe made there. That people did then alſo practiſe
+the making of <hi>Bayes,</hi> which tis pro<g ref="char:EOLhyphen"/>bable, had taken ſuch effect,
+that if the warre had continued betwixt the two Kings ſom<g ref="char:EOLhyphen"/>what longer, the
+vent of Engliſh had bin there quite loſt. Hence it followeth, <hi>That War
+with forraigne States is deſtructive to our Manufactures.</hi>
+            </p>
+            <p>But admit that forraigne Nations, not<g ref="char:EOLhyphen"/>withſtanding what hath
+been ſaid, will in ſome meaſure have need of ſome of our <hi>Woollen
+Manufactures,</hi> we ſhall not be able to furniſh them therewith, the
+chiefe mate<g ref="char:EOLhyphen"/>riall <hi>Wooll</hi> being wanting; which want muſt follow when
+our Sheep are deſtroyed; and with them, all other kinde of Cattell, if this
+moſt unnaturall war continue but a ſhort time.</p>
+            <p>The <hi>Hollanders</hi> are an induſtrious and di<g ref="char:EOLhyphen"/>ligent People,
+and watch all opportunities to ingroſſe all the <hi>Trade</hi> they can
+into their owne hands, they have certainly a vigilant eye over our Actions,
+that <hi>Lethargie</hi> which hath ſeized on us, will make them the more
+<hi>watchfull;</hi> they will make no little uſe of <pb n="7" facs="tcp:154570:6"/>our
+diſtractions; they will be ready to take hold of what we let looſe, and
+with great eagerneſſe purſue what we let goe; wee ſhall not ſo
+ſoone be <hi>out,</hi> as they will be <hi>in.</hi>
+            </p>
+            <p>Laſtly, if the <hi>Trafficke</hi> of this Kingdome be once
+loſt, what will then become of it? what will then be preſerved?</p>
+            <p>Our Ships, the wals of this Land will rot, and moulder away.</p>
+            <p>Our wealth and Eſtates will bee con<g ref="char:EOLhyphen"/>ſumed, and no meanes left
+for recovery.</p>
+            <p>
+               <hi>Tenants</hi> will be diſabled from paying their
+<hi>Landlords,</hi> and they, <hi>viz.</hi> the <hi>Land<g ref="char:EOLhyphen"/>lords,</hi> for want
+of ſupplyes of moneyes by their uſuall Rents, will not be able to
+fur<g ref="char:EOLhyphen"/>niſh themſelves, and Families with commodities needfull, vented by men
+of ſundry Trades, <hi>viz.</hi>
+               <list>
+                  <item>
+                     <hi>Woollen</hi> &amp; <hi>Linnen Drapers.</hi>
+                  </item>
+                  <item>
+                     <hi>Mercers.</hi>
+                  </item>
+                  <item>
+                     <hi>Silkmen.</hi>
+                  </item>
+                  <item>
+                     <hi>Grocers.</hi>
+                  </item>
+                  <item>
+                     <hi>Habberdaſhers.</hi>
+                  </item>
+                  <pb n="8" facs="tcp:154570:7"/>
+                  <item>
+                     <hi>Vintners,</hi> &amp;c. together with moſt ſorts of
+<hi>Handicrafts-men,</hi> or <hi>Artificers.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Part of the commodities wherein they deale, being native, or of
+our owne Coun<g ref="char:EOLhyphen"/>trey, both for the materials and Manu<g ref="char:EOLhyphen"/>facture, and part brought
+into this King<g ref="char:EOLhyphen"/>dome from forraigne Countries. Now thoſe ſorts of Trades-men
+failing of the vent of their commodities, the <hi>Trade</hi> of Merchants into
+other Kingdomes muſt ceaſe, there will be no need of them, thence will
+follow the decay of <hi>Ships, Mariners,</hi> and ſundry ſorts of
+<hi>Artificers, Labourers,</hi> and many others that have their dependency upon
+them. This miſchiefe will not be al<g ref="char:EOLhyphen"/>together confined and bounded within our
+owne Land, it will extend it ſelfe (like an <hi>Epidemicall</hi> diſeaſe)
+into all or moſt other Kingdomes where we have <hi>Trade:</hi> For, if we
+take not off the commodities of thoſe Countries in exchange of ours, they
+muſt ſuffer, and that not a little by it, and for re<g ref="char:EOLhyphen"/>medy partly, for want
+of their accuſtomed <pb n="9" facs="tcp:154570:7"/>imployment, and
+vent of their ſaid commo<g ref="char:EOLhyphen"/>dities; and partly, by reaſon of the want of ours,
+be inforced to ſeeke out, and learne other <hi>Trades,</hi> and very likely
+pitch or fall upon the making of ſuch as are here made: For, as <hi>in the
+Body naturall, there is ſuch a ſym<g ref="char:EOLhyphen"/>pathy and connection of the parts, that
+if any of them be diſtempered, the reſt hath a ſenſe thereof: ſo it
+may bee ſaid of the Body of Trade, one Part hath ſuch a dependencie upon
+another, that if any one faile in any remarkable manner, the rest will in time
+ſuffer thereby.</hi>
+            </p>
+            <p>The <hi>Merchants Strangers,</hi> both here and abroad, in regard
+of theſe troubles, have withdrawne moſt part of their Eſtates hence, and
+will have ſhortly little in this Kingdome: We ſhall have no little want and
+miſſe of their monies, which we re<g ref="char:EOLhyphen"/>ceive of them here, partly by
+<hi>Exchange</hi> from forraigne Parts, made over, or remitted by our Factors,
+in returne of ſuch commo<g ref="char:EOLhyphen"/>dities as we uſually ſend hence to our ſaid
+Factors; and partly, by the taking up of their monies here by
+<hi>Exchange,</hi> to be re<g ref="char:EOLhyphen"/>payed by our Factors abroad; which mo<g ref="char:EOLhyphen"/>nies
+<pb n="11" facs="tcp:154570:8"/>are commonly imployed in the
+com<g ref="char:EOLhyphen"/>modities of this Kingdome, which hath been no little furtherance to the
+more abundant vent of our <hi>Manufactures,</hi> and hath been otherwiſe a
+great help to our Merchants, ſpecially to ſome of the youn<g ref="char:EOLhyphen"/>ger ſort, who
+had ſmall ſtocks wherewith to begin their <hi>Trade;</hi> the want whereof,
+I meane of the <hi>Strangers Money,</hi> muſt cauſe a great decay of
+<hi>Trade;</hi> and if once gone, as is almoſt, though a preſent
+<hi>Peace</hi> ſhould fol<g ref="char:EOLhyphen"/>low, it will not be ſo eaſily brought backe;
+They will in the <hi>Interim</hi> finde or uſe other wayes and meanes for
+imployment of the ſame.</p>
+            <p>By loſſe of <hi>Trade</hi> all ſorts of People will faile of
+imployment in all parts, and ſo wanting meanes to maintaine themſelves and
+Families, be driven into ſuch ſtraights (for <hi>Neceſsitas turpia
+coget</hi>) that they will lay hold on of what is next for their ſupport;
+neither Lawes Divine, nor humane, will be able to reſtraine them, a generall
+confu<g ref="char:EOLhyphen"/>ſion of, and in all things will follow. This Nation will become
+contemptible, and a ſcorne to all others, and be ſubject to be in<g ref="char:EOLhyphen"/>vaded
+<pb n="10" facs="tcp:154570:8"/>and made a prey of by forraigne
+peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>Having thus briefly given a touch of the miſerable effects the
+want of <hi>Trade</hi> may produce, which want (as beforeſaid) muſt follow,
+if theſe ſad diſtempers continue: I humbly leave the prevention to the
+<hi>Tru<g ref="char:EOLhyphen"/>ſtees</hi> of the Kingdome, whoſe hearts I be<g ref="char:EOLhyphen"/>ſeech God may be
+forthwith moved to take a matter of ſo great concernment into their ſerious
+conſideration, not forgetting how eaſie a thing it is, <hi>Principiis
+obſtare.</hi> And that as <hi>War</hi> in generall, ſo <hi>inteſtine
+War</hi> is one of the greateſt ſcourges of God Almighty, and a viſible
+Argument of his diſpleaſure, and vengeance upon a People.</p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Pag. 3. line 13. reade <hi>(but by)</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
